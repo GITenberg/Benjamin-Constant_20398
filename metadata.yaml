@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9274'
     url: http://www.gutenberg.org/2009/agents/9274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20398#Benjamin-Constant
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-01-19'
 gutenberg_type: Text
