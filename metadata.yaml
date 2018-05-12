@@ -1,0 +1,30 @@
+_repo: Benjamin-Constant_20398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castille, Hippolyte
+    birthdate: 1820
+    deathdate: 1886
+    gutenberg_agent_id: '9274'
+    url: http://www.gutenberg.org/2009/agents/9274
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20398'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 18th century -- Biography'
+- !lcsh 'Authors, French -- 19th century -- Biography'
+- !lcsh 'Constant, Benjamin, -- 1767-1830'
+- !lcc 'DC'
+- !lcsh 'France -- History -- 1789-1900'
+title: Benjamin Constant
+url: http://www.gutenberg.org/ebooks/20398
